@@ -17,4 +17,4 @@ query.
 * Pay attention to the recurring patterns — CTE + window function, conditional aggregation, LEFT JOIN for 
 completeness — these show up again and again in interviews.
 
-Got through each and every question and practice along these 30 Advanced Real Business SQL Questions based on fictional fast food chain dataset "SuperFastFood Global (SFF-G)". This helps you to attend any SQL interview with confidence.
+Go through each and every question and practice along these 30 Advanced Real Business SQL Questions based on fictional fast food chain dataset "SuperFastFood Global (SFF-G)". This helps you to attend any SQL interview with confidence.
