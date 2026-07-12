@@ -4,6 +4,7 @@ This repo contains a PDF of GRASSP Acad 30 days SQL scenarios along with questio
 and what concepts each scenario question cover.
 
 **How to Use This Sprint**
+
 Each day follows the same format: a real workplace scenario at SuperFastFood Global (SFF-G), the business
 question behind it, sample data you can run yourself in PostgreSQL, the query, and a breakdown of exactly what
 SQL concept it tests.
