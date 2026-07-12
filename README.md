@@ -9,11 +9,11 @@ question behind it, sample data you can run yourself in PostgreSQL, the query, a
 SQL concept it tests.
 
 **SUGGESTED APPROACH:**
-● Read the scenario and try to write the query yourself before looking at the answer.
+● Read the scenario and try to write the query yourself before looking at the answer. \n
 ● Run the CREATE TABLE and INSERT statements in PostgreSQL (or any SQL engine of your choice) to test your own
-query.
-● Compare your query against the provided solution and read the "What This Tests" breakdown.
-● Pay attention to the recurring patterns — CTE + window function, conditional aggregation, LEFT JOIN for
+query. \n
+● Compare your query against the provided solution and read the "What This Tests" breakdown. \n
+● Pay attention to the recurring patterns — CTE + window function, conditional aggregation, LEFT JOIN for \n
 completeness — these show up again and again in interviews.
 
 Got through each and every question and practice along these 30 Advanced Real Business SQL Questions based on fictional fast food chain dataset "SuperFastFood Global (SFF-G)". This helps you to attend any SQL interview with confidence.
